@@ -1,6 +1,6 @@
 # socialmedia_nb_detector
 
-Naive Bayes  socialmedia detector.
+Naive Bayes  socialmedia detector using kotlin and Flutter.
 
 ## Getting Started
 
